@@ -30,7 +30,7 @@ Skript se spouští z příkazové řádky a očekává dva argumenty:
 
 ### Funkční příklady spuštění
 
-Zpracování okresu Blansko:
+Zpracování okresu Beroun:
 ```bash
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102" Beroun.csv
 ```
@@ -40,7 +40,7 @@ Zpracování okresu Benešov:
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101" Benesov.csv
 ```
 
-Zpracování okresu Tábor:
+Zpracování okresu Kladno:
 ```bash
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" Kladno.csv 
 ```
